@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN projects**
 
-- 🌱 I’m currently learning **Node Js & React Native**
+- 🌱 I’m currently learning **Node Js & Flutter**
 
 - 💬 Ask me about **MERN**
 
