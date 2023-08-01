@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN projects**
+- 🔭 I’m currently working on **Websites & Mobile Apps**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN & React Native**
 
 - 📫 How to reach me **x.jey.vii@gmail.com**
 
