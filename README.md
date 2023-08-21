@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Websites & Mobile Apps**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **ML & AI**
 
 - 💬 Ask me about **MERN & React Native**
 
